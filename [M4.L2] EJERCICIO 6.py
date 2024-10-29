@@ -50,4 +50,4 @@ else:
     else:
         ganador = personaje2["Nombre"]
 
-    print("\n \n ¡", ganador, "ha ganado el duelo!"
+    print("\n \n ¡", ganador, "ha ganado el duelo!")
